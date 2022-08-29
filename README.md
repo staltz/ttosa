@@ -2,6 +2,8 @@
 
 ## Dataset
 
+### [data.csv](https://github.com/staltz/ttosa/blob/master/data.csv)
+
 Each row corresponds to a proprietary software who has had a *direct* open source alternative, and the "TTOSA" is the difference between the birth date of those two projects.
 
 A **direct open source alternative** is defined as an open source project that was created in direct inspiration from the proprietary software, and often clearly presenting itself as a replacement to that.
