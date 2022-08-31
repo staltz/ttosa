@@ -14,6 +14,14 @@ The birth date (fourth column) of an open source alternative is the date of its 
 
 TTOSA is the numerical difference between the fourth and the second columns, measured in days.
 
+## Pull requests
+
+Please provide **evidence** for:
+
+- The birth date of the proprietary software
+- The birth date of the open source alternative
+- How the open source project was *directly inspired* by that proprietary software
+
 ## Licenses
 
 The file `data.csv` in this repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
