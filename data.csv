@@ -1,5 +1,6 @@
 "Proprietary Product / service","Published on","Open source Alternative","Published on",TTOSA
 Unix,1973-10-01,GNU/Linux,1991-09-17,6560 days
+S Language,1976-01-01,R Language,1993-08-01,6422 days
 AutoCAD,1982-12-01,Open Cascade,1999-01-01,5875 days
 MATLAB,1984-12-12,Scilab,1990-01-01,1846 days
 Adobe Illustrator,1987-03-19,Inkscape,2003-11-02,6072 days
@@ -14,6 +15,7 @@ FTP Explorer,1996-10-01,FileZilla,2001-06-22,1725 days
 BitKeeper,2000-05-04,Git,2005-04-07,1799 days
 YouTube,2005-02-14,PeerTube,2018-10-11,4987 days
 Reddit,2005-06-23,Lemmy,2019-02-14,4984 days
+Google Analytics,2005-11-14,Matomo,2007-07-24,617 days
 Twitter,2006-03-21,GNU Social,2008-07-02,834 days
 ManyCam,2006-03-22,OBS,2012-09-01,2355 days
 Google Translate,2006-04-28,Argos Translate,2020-04-07,5093 days
