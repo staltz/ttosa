@@ -13,9 +13,12 @@ Windows Media Player,1991-10-01,VLC media player,2001-02-01,3411 days
 Netscape Navigator,1994-12-15,Firefox,2002-09-23,2839 days
 FTP Explorer,1996-10-01,FileZilla,2001-06-22,1725 days
 BitKeeper,2000-05-04,Git,2005-04-07,1799 days
+Jira,2002-04-10,Plane,2022-11-19,7528 days
 DocuSign,2003-06-01,DocuSeal,2023-06-01,7305 days
 YouTube,2005-02-14,PeerTube,2018-10-11,4987 days
+TeamViewer,2005-03-06,RustDesk,2020-09-28,5685 days
 Reddit,2005-06-23,Lemmy,2019-02-14,4984 days
+Google Analytics,2005-11-14,Matomo,2007-07-24,617 days
 Twitter,2006-03-21,GNU Social,2008-07-02,834 days
 ManyCam,2006-03-22,OBS,2012-09-01,2355 days
 Google Translate,2006-04-28,Argos Translate,2020-04-07,5093 days
@@ -40,8 +43,32 @@ Airtable,2013-01-01,NocoDB,2017-10-29,1762 days
 Slack,2013-08-01,Mattermost,2015-10-02,792 days
 Calendly,2014-02-06,Calendso,2021-03-07,2586 days
 Discord,2015-05-13,Fosscord,2021-01-24,2083 days
+Google Photos,2015-05-28,Ownphotos,2017-05-23,726 days
 Notion,2016-01-01,AppFlowy,2021-06-16,1993 days
 Figma,2016-09-27,Penpot,2021-02-02,1589 days
 Canny.io,2017-03-01,Astuto,2019-08-19,901 days
+CapCut,2019-05-21,OpenCut,2025-06-22,2224 days
 Roam Research,2019-10-14,Foam,2020-06-14,244 days
 Clubhouse,2020-03-01,Dogehouse,2021-02-07,343 days
+DALL-E 2,2022-04-06,DALLE2-pytorch,2022-04-07,1 days
+Arc Browser,2022-04-19,Zen Browser,2024-03-28,709 days
+Screen Studio,2022-11-09,OpenScreen,2025-10-10,1066 days
+Perplexity,2022-12-07,Perplexica,2024-04-09,489 days
+Cursor,2023-01-18,Void,2024-09-11,602 days
+ElevenLabs,2023-01-23,Voicebox,2026-01-25,1098 days
+ChatGPT Code Interpreter,2023-03-23,GPT-Code UI,2023-05-13,51 days
+NotebookLM,2023-05-10,Open Notebook,2024-10-21,530 days
+Vercel v0,2023-09-14,openv0,2023-09-19,5 days
+Rabbit R1,2024-01-09,Open Interpreter 01,2024-01-11,2 days
+OpenAI Sora,2024-02-15,Open-Sora,2024-02-20,5 days
+Devin,2024-03-12,OpenDevin,2024-03-13,1 days
+Granola,2024-05-22,Hyprnote,2024-12-09,201 days
+ChatGPT Canvas,2024-10-03,Open Canvas,2024-10-03,0 days
+Claude Code,2025-02-24,OpenCode,2025-03-21,25 days
+Manus,2025-03-05,OpenManus,2025-03-06,1 days
+AlphaEvolve,2025-05-14,OpenEvolve,2025-05-15,1 days
+Claude Cowork,2026-01-12,OpenWork,2026-01-14,2 days
+Claude Design,2026-04-17,Open CoDesign,2026-04-18,1 days
+Grok Bot,2026-08-11,OpenMausBot,2026-08-11,0 days
+Meta Muse,2026-09-08,OpenMuse,2026-09-15,7 days
+Jev,2026-09-15,OpenJev,2026-09-16,1 days
